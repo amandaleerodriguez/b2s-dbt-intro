@@ -24,9 +24,6 @@ sources:
       - name: payment
         columns:
           - name: paymentmethod
-          config: 
-            test:
-              -accepted_values:
-                values: ['credi_card','coupon','bank_transfer',]
+         
 
 
